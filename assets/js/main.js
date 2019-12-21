@@ -187,7 +187,7 @@
     START - Preloader
     ------------------------------ */
 	jQuery(window).on('load', function(){
-		jQuery("#preloader").fadeOut(120);
+		jQuery("#preloader").fadeOut(170);
 	});
 	
 	/*----------------------------
